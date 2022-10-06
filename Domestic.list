@@ -493,29 +493,37 @@ DOMAIN-SUFFIX,vicovico.com
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,58.com.cn
 DOMAIN-SUFFIX,5858.com
+DOMAIN-SUFFIX,58antenna.cn
+DOMAIN-SUFFIX,58antenna.com
 DOMAIN-SUFFIX,58cdn.com.cn
 DOMAIN-SUFFIX,58control.cn
 DOMAIN-SUFFIX,58corp.com
-DOMAIN-SUFFIX,58ganji.com
+DOMAIN-SUFFIX,58dns.org
 DOMAIN-SUFFIX,58img.com.cn
 DOMAIN-SUFFIX,58lovepet.com
 DOMAIN-SUFFIX,58shangban.com
 DOMAIN-SUFFIX,58supin.com
+DOMAIN-SUFFIX,58uxd.com
 DOMAIN-SUFFIX,58v5.cn
+DOMAIN-SUFFIX,58xinghuo.cn
+DOMAIN-SUFFIX,58xinghuo.com
 DOMAIN-SUFFIX,anjuke.com
 DOMAIN-SUFFIX,anjukestatic.com
 DOMAIN-SUFFIX,bangbang.com
 DOMAIN-SUFFIX,boxiaole.com
 DOMAIN-SUFFIX,chinahr.com
+DOMAIN-SUFFIX,chrstatic.com
 DOMAIN-SUFFIX,fang.com
 DOMAIN-SUFFIX,jiaoyibao.com
 DOMAIN-SUFFIX,jxedt.com
+DOMAIN-SUFFIX,jxksw.net
 DOMAIN-SUFFIX,kuche.com
 DOMAIN-SUFFIX,m91.com.cn
 DOMAIN-SUFFIX,roomeet.cn
 DOMAIN-SUFFIX,sofun.com
 DOMAIN-SUFFIX,soufunimg.com
 DOMAIN-SUFFIX,wubashangban.com
+DOMAIN-SUFFIX,xinchong.com
 # >> 58Che
 DOMAIN-SUFFIX,58che.com
 DOMAIN-SUFFIX,cnmo-img.com.cn
@@ -539,6 +547,11 @@ DOMAIN-SUFFIX,caihongjia.com
 DOMAIN-SUFFIX,nidiandaojia.com
 DOMAIN-SUFFIX,canbaojin.com
 DOMAIN-SUFFIX,yirenjiankang.cn
+# >> 赶集
+DOMAIN-SUFFIX,58ganji.com
+DOMAIN-SUFFIX,58ganji-corp.com
+DOMAIN-SUFFIX,ganji.com
+DOMAIN-SUFFIX,ganjistatic1.com
 # >> 转转
 DOMAIN-SUFFIX,zhuancorp.com
 DOMAIN-SUFFIX,zhuanspirit.com
@@ -3370,14 +3383,21 @@ DOMAIN-SUFFIX,bscabank.com
 DOMAIN-SUFFIX,bank-of-china.com
 DOMAIN-SUFFIX,bankofchina.com
 DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bocamchina.com
 DOMAIN-SUFFIX,bocaviation.com
+DOMAIN-SUFFIX,boccfc.cc
 DOMAIN-SUFFIX,boccfc.cn
 DOMAIN-SUFFIX,bocfullertonbank.com
 DOMAIN-SUFFIX,bocgi.com
 DOMAIN-SUFFIX,bocgins.com
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,bochkonline.com
+DOMAIN-SUFFIX,bocichina.cn
 DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocichina.com.cn
+DOMAIN-SUFFIX,bocifunds.cn
+DOMAIN-SUFFIX,bocifunds.com
+DOMAIN-SUFFIX,bocifunds.com.cn
 DOMAIN-SUFFIX,bocigroup.com
 DOMAIN-SUFFIX,bocim.com
 DOMAIN-SUFFIX,bocservices.com.cn
@@ -3396,13 +3416,18 @@ DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,ccb.com.cn
 DOMAIN-SUFFIX,ccbcos.com
 DOMAIN-SUFFIX,ccbfund.cn
+DOMAIN-SUFFIX,ccbfund.com
+DOMAIN-SUFFIX,ccbfund.com.cn
+DOMAIN-SUFFIX,ccbfutures.cn
 DOMAIN-SUFFIX,ccbfutures.com
 DOMAIN-SUFFIX,ccbhome.cn
 DOMAIN-SUFFIX,ccbhome.net
 DOMAIN-SUFFIX,ccbintl.com.hk
 DOMAIN-SUFFIX,ccbleasing.com
+DOMAIN-SUFFIX,ccblife-test.com.cn
 DOMAIN-SUFFIX,ccbseoul.com
 DOMAIN-SUFFIX,ccbtrust.com.cn
+DOMAIN-SUFFIX,ccbxt.com
 ## > CEB (光大银行)
 DOMAIN-SUFFIX,cebbank.com
 DOMAIN-SUFFIX,ceblease.com
@@ -3456,44 +3481,82 @@ DOMAIN-SUFFIX,集团.中信
 ## > CMB (招商银行)
 DOMAIN-SUFFIX,8008205555.cn
 DOMAIN-SUFFIX,8008205555.com
+DOMAIN-SUFFIX,cignacmb-ipmi.com
 DOMAIN-SUFFIX,cignacmb.com
+DOMAIN-SUFFIX,cignacmbamc.com
 DOMAIN-SUFFIX,cmb-leasing.com
 DOMAIN-SUFFIX,cmbchina.biz
+DOMAIN-SUFFIX,cmbchina.cn
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cmbimg.cn
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmbt.cn
+DOMAIN-SUFFIX,cmbuat.com
 DOMAIN-SUFFIX,cmburl.cn
 DOMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,cmf.biz
+DOMAIN-SUFFIX,cmf.ltd
 DOMAIN-SUFFIX,cmfchina.com
+DOMAIN-SUFFIX,cmfunds.cn
+DOMAIN-SUFFIX,test-cignacmb.com
 ## > ICBC (工商银行)
 DOMAIN-SUFFIX,95588.com
 DOMAIN-SUFFIX,95588.com.cn
 DOMAIN-SUFFIX,dccnet.com.cn
 DOMAIN-SUFFIX,icbc
+DOMAIN-SUFFIX,icbc-at.com
+DOMAIN-SUFFIX,icbc-cz.com
 DOMAIN-SUFFIX,icbc-ltd.com
 DOMAIN-SUFFIX,icbc-uk.com
 DOMAIN-SUFFIX,icbc-us.com
+DOMAIN-SUFFIX,icbc.ae
+DOMAIN-SUFFIX,icbc.be
 DOMAIN-SUFFIX,icbc.co.id
+DOMAIN-SUFFIX,icbc.co.jp
+DOMAIN-SUFFIX,icbc.co.kr
+DOMAIN-SUFFIX,icbc.co.nl
+DOMAIN-SUFFIX,icbc.com.au
 DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,icbc.com.es
+DOMAIN-SUFFIX,icbc.com.kh
+DOMAIN-SUFFIX,icbc.com.kw
+DOMAIN-SUFFIX,icbc.com.la
+DOMAIN-SUFFIX,icbc.com.mm
 DOMAIN-SUFFIX,icbc.com.mo
+DOMAIN-SUFFIX,icbc.com.mx
 DOMAIN-SUFFIX,icbc.com.pe
+DOMAIN-SUFFIX,icbc.com.pk
+DOMAIN-SUFFIX,icbc.com.qa
 DOMAIN-SUFFIX,icbc.com.sg
+DOMAIN-SUFFIX,icbc.com.vn
+DOMAIN-SUFFIX,icbc.de
+DOMAIN-SUFFIX,icbc.eu
+DOMAIN-SUFFIX,icbc.lu
+DOMAIN-SUFFIX,icbcalmaty.kz
 DOMAIN-SUFFIX,icbcasia.com
 DOMAIN-SUFFIX,icbcbr.com.br
 DOMAIN-SUFFIX,icbccs.com.cn
+DOMAIN-SUFFIX,icbccstz.com.cn
+DOMAIN-SUFFIX,icbci.com.hk
 DOMAIN-SUFFIX,icbcina.com
 DOMAIN-SUFFIX,icbcindia.com
 DOMAIN-SUFFIX,icbcit.com
 DOMAIN-SUFFIX,icbclondon.com
+DOMAIN-SUFFIX,icbcmanila.com.cn
+DOMAIN-SUFFIX,icbcme.ae
+DOMAIN-SUFFIX,icbcmoscow.ru
 DOMAIN-SUFFIX,icbcmy.com
 DOMAIN-SUFFIX,icbcnz.com
+DOMAIN-SUFFIX,icbcpanama.com
+DOMAIN-SUFFIX,icbcparis.fr
 DOMAIN-SUFFIX,icbcpl.com
 DOMAIN-SUFFIX,icbcstandard.com
 DOMAIN-SUFFIX,icbcstandardbank.com
 DOMAIN-SUFFIX,icbcstandardresources.com
 DOMAIN-SUFFIX,icbcstandardsecurities.com
 DOMAIN-SUFFIX,icbcswiss.com
+DOMAIN-SUFFIX,icbcthai.com
 DOMAIN-SUFFIX,icbkfs.com
 DOMAIN-SUFFIX,icbkus.com
 ## > PSBC (邮政储蓄)
@@ -3506,9 +3569,11 @@ DOMAIN-SUFFIX,95516.net
 DOMAIN-SUFFIX,chinaunionpay.com
 DOMAIN-SUFFIX,chinaunionpay.com.cn
 DOMAIN-SUFFIX,chinaunionpay.net
+DOMAIN-SUFFIX,cup.com.cn
 DOMAIN-SUFFIX,cup62.cn
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,unionpay.net
+DOMAIN-SUFFIX,unionpayintl.cn
 DOMAIN-SUFFIX,unionpayintl.com
 DOMAIN-SUFFIX,unionpaysecure.com
 ## >> 银联电子支付
@@ -3552,11 +3617,30 @@ DOMAIN-SUFFIX,银联电子支付.公司.cn
 DOMAIN-SUFFIX,银联电子支付.網絡.cn
 DOMAIN-SUFFIX,银联电子支付.网络
 DOMAIN-SUFFIX,银联电子支付.网络.cn
-## > 方正字库
+## > 方正电子
+DOMAIN-SUFFIX,cloudpub.cn
+DOMAIN-SUFFIX,founder.com.cn
+DOMAIN-SUFFIX,founderfx.cn
+DOMAIN-SUFFIX,founderfx.com.cn
+DOMAIN-SUFFIX,founderss.cn
+DOMAIN-SUFFIX,fzyun.cn
+DOMAIN-SUFFIX,fzyun.net
+DOMAIN-SUFFIX,newaircloud.com
+DOMAIN-SUFFIX,wisestcloud.com
+# >> 方正电子云
+DOMAIN-SUFFIX,fzdzyun.cn
+DOMAIN-SUFFIX,fzdzyun.com
+DOMAIN-SUFFIX,fzdzyun.com.cn
+# >> 方正慧云智能题库及诊断系统
+DOMAIN-SUFFIX,study-cloud.cn
+DOMAIN-SUFFIX,study-cloud.com
+# >> 方正捷云
+DOMAIN-SUFFIX,cloudpress.cn
+DOMAIN-SUFFIX,w2press.cn
+# >> 方正字库
+DOMAIN-SUFFIX,fangzhengshufa.com
 DOMAIN-SUFFIX,foundertype.com
-## > 赶集
-DOMAIN-SUFFIX,ganji.com
-DOMAIN-SUFFIX,ganjistatic1.com
+DOMAIN-SUFFIX,xiezixiansheng.com
 ## > 硅谷动力
 DOMAIN-SUFFIX,ciweekforum.com
 DOMAIN-SUFFIX,enet.com.cn
@@ -5294,11 +5378,27 @@ DOMAIN-SUFFIX,wsoso.com
 ## > 蓝奏云
 DOMAIN-SUFFIX,baidupan.com
 DOMAIN-SUFFIX,lanzou.com
+DOMAIN-SUFFIX,lanzoub.com
+DOMAIN-SUFFIX,lanzouc.com
+DOMAIN-SUFFIX,lanzoue.com
+DOMAIN-SUFFIX,lanzouf.com
 DOMAIN-SUFFIX,lanzoug.com
+DOMAIN-SUFFIX,lanzouh.com
 DOMAIN-SUFFIX,lanzoui.com
+DOMAIN-SUFFIX,lanzouj.com
+DOMAIN-SUFFIX,lanzouk.com
+DOMAIN-SUFFIX,lanzoul.com
+DOMAIN-SUFFIX,lanzoum.com
 DOMAIN-SUFFIX,lanzouo.com
+DOMAIN-SUFFIX,lanzoup.com
+DOMAIN-SUFFIX,lanzouq.com
 DOMAIN-SUFFIX,lanzous.com
+DOMAIN-SUFFIX,lanzout.com
+DOMAIN-SUFFIX,lanzouu.com
+DOMAIN-SUFFIX,lanzouv.com
+DOMAIN-SUFFIX,lanzouw.com
 DOMAIN-SUFFIX,lanzoux.com
+DOMAIN-SUFFIX,lanzouy.com
 DOMAIN-SUFFIX,woozooo.com
 ## > 乐播投屏
 DOMAIN-SUFFIX,hpplay.cn

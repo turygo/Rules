@@ -1578,11 +1578,13 @@ DOMAIN-SUFFIX,webex.de
 DOMAIN-SUFFIX,webex.es
 DOMAIN-SUFFIX,webex.fr
 ## > Cloudflare
+DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare-quic.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareapps.com
 DOMAIN-SUFFIX,cloudflarebolt.com
@@ -1592,11 +1594,13 @@ DOMAIN-SUFFIX,cloudflareok.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflaressl.com
 DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudflaretest.com
 DOMAIN-SUFFIX,cloudflarewarp.com
 DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,one.one.one.one
+DOMAIN-SUFFIX,pacloudflare.com
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,videodelivery.net
@@ -2690,6 +2694,7 @@ DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
@@ -3528,6 +3533,7 @@ DOMAIN-SUFFIX,googledomains.com
 DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googlee.com
 DOMAIN-SUFFIX,googleearth.com
+DOMAIN-SUFFIX,googlefiber.com
 DOMAIN-SUFFIX,googlefiber.net
 DOMAIN-SUFFIX,googlefinland.com
 DOMAIN-SUFFIX,googlemail.com
@@ -5144,6 +5150,7 @@ DOMAIN-SUFFIX,izatcloud.net
 DOMAIN-SUFFIX,meetsmartbook.com
 DOMAIN-SUFFIX,patenttruth.org
 DOMAIN-SUFFIX,pixtronix.com
+DOMAIN-SUFFIX,qceventscenter.com.cn
 DOMAIN-SUFFIX,qctconnect.com
 DOMAIN-SUFFIX,qprize.com
 DOMAIN-SUFFIX,qualcomm-email.com
@@ -5254,7 +5261,9 @@ DOMAIN-SUFFIX,force.com
 DOMAIN-SUFFIX,salesforce.com
 DOMAIN-SUFFIX,salesforce.org
 DOMAIN-SUFFIX,salesforceliveagent.com
+DOMAIN-SUFFIX,sfdcdigital.com
 DOMAIN-SUFFIX,sfdcstatic.com
+DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
 ## >> Heroku
 DOMAIN-SUFFIX,heroku.com
