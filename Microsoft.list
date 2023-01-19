@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.microsoft.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azurecomcdn.net
+DOMAIN-SUFFIX,azurecomm.net
 DOMAIN-SUFFIX,azurecontainer.io
 DOMAIN-SUFFIX,azurecosmos.net
 DOMAIN-SUFFIX,azurecosmosdb.com
@@ -317,6 +318,7 @@ DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,visualstudio.eu
 DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
@@ -336,6 +338,7 @@ DOMAIN-SUFFIX,msxiaoice.com
 DOMAIN-SUFFIX,msxiaona.cn
 DOMAIN-SUFFIX,officeplus.cn
 DOMAIN-SUFFIX,renlifang.com
+DOMAIN-SUFFIX,xiaoice.com
 ## >> 微软小娜
 DOMAIN-SUFFIX,cortana.ai
 DOMAIN-SUFFIX,cortanaanalytics.com
